@@ -1,0 +1,51 @@
+# Data files and scientific datasets
+*.csv
+*.tsv
+*.tab
+*.nc
+*.nc4
+*.cdf
+*.h5
+*.hdf
+*.hdf5
+*.grib
+*.grb
+*.zarr/
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.mat
+
+# Spreadsheet and database exports
+*.xlsx
+*.xls
+*.xlsm
+*.ods
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated figures and documents
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tif
+*.tiff
+*.svg
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+# Notebook execution outputs and local runtime files
+*.executed.ipynb
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.mplconfig/
+.DS_Store
