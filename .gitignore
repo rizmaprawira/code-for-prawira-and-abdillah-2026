@@ -49,3 +49,6 @@ __pycache__/
 .ipynb_checkpoints/
 .mplconfig/
 .DS_Store
+
+# Supplement ignored directories
+Supplement/ConvergenceModel/
